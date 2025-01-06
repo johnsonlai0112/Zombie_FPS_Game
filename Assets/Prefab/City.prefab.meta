@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Prefab/City.prefab.meta
+guid: ef431f82c6504594eaee2b4348821fba
+========
+guid: 6746c9119dc2e6140b7b5538394ffb1a
+>>>>>>>> ad8f4b7 (merge):Assets/Prefab/AmmoSpawner 1.prefab.meta
+=======
+guid: a5998e02eb0c66a448817599e23780f7
+>>>>>>> parent of 8ba80dd (merge)
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
